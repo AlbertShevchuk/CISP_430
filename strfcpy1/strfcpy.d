@@ -1,0 +1,1 @@
+strfcpy.o: strfcpy.S

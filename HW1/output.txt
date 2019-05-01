@@ -1,0 +1,27 @@
+dima does not exist in the list
+
+albert: 11 22 33 44 55 66 77 88 99 
+alex: 75 
+antonia: 
+aslin: 
+diego: 88 91 99 99 99 99 1999999 69 
+dima: 34 87 56 43 27 465 
+erin: 1 
+irlen: 69 
+itzel: 1 
+lilly: 1 
+liza: 45 34 54 65 
+veiren: 1 
+
+veiren: 1 
+liza: 45 34 54 65 
+lilly: 1 
+itzel: 1 
+irlen: 69 
+erin: 1 
+dima: 34 87 56 43 27 465 
+diego: 88 91 99 99 99 99 1999999 69 
+aslin: 
+antonia: 
+alex: 75 
+albert: 11 22 33 44 55 66 77 88 99 

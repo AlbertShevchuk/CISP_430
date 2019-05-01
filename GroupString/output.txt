@@ -1,0 +1,42 @@
+     Group Assignment: 1) GroupString by Albert Shevchuk 
+
+
+  Funct: stringCopy
+
+Contents in Array A and B before stringCopy
+Array A: 
+Array B: ÿÿÿÿÿÿÿÿEò@
+Contents in Array A and B after stringCopy
+Array A: ÿÿÿÿÿÿÿÿEò@
+Array B: ÿÿÿÿÿÿÿÿEò@
+
+  Funct: stringCompare
+
+Contents in Array C and D before stringCompare
+Array C: Às/
+Array D: àñ@
+Are the Contents in Array C and D the same? no
+
+  Funct: stringConcatenation
+
+Contents in Array E and F before stringCompare
+Array E: 
+Array F: 
+Contents in Array E and F after stringCompare
+Array E: 
+Array F: 
+
+  Funct: stringPosition
+
+Contents in Array G and H before stringPosition
+Array G: 
+Array H: àñ@
+The first letter à of Array H is located in position: -1 of Array G
+
+  Funct: stringLength
+
+Contents in Array I before stringPosition
+Array I: ÀUƒ
+Ammount of letters moved: 3
+Contents in Array I after stringPosition
+Array I: 3ÀUƒ
